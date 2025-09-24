@@ -122,10 +122,6 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-#Twilio keys.
-TWILIO_ACCOUNT_SID = "TWILIO_ACCOUNT_SID"
-TWILIO_AUTH_TOKEN = "794d3fc3c4cb5dcdab13e2fa6a2ad84b"
-TWILIO_PHONE_NUMBER = "+919440151948"
 
 # Useful auth redirects
 LOGIN_URL = 'login'
